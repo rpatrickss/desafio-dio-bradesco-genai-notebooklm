@@ -1,5 +1,11 @@
 # desafio-dio-bradesco-genai-notebooklm
+---
+
 Desafio de projeto do Bootcamp Bradesco: GenAI&amp;Dados (DIO)
+
+---
+
+Link do NotebookLM: https://notebooklm.google.com/notebook/97d54b46-cedb-41dc-8196-c192d41a4900
 
 ---
 
